@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "217998045645",
+    "project_id": "gbc-android-project-db",
+    "storage_bucket": "gbc-android-project-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217998045645:android:ca52c8acff7d3b5c175484",
+        "android_client_info": {
+          "package_name": "com.example.landlordapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasUMVtA8G1ojHqPbEkeXo_HAn3_hybRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217998045645:android:4951ee5447df849d175484",
+        "android_client_info": {
+          "package_name": "com.example.renter_app_g04"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasUMVtA8G1ojHqPbEkeXo_HAn3_hybRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

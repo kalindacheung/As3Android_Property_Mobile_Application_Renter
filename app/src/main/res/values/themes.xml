@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RENTER_APP_G04" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">#00A8AE</item>
+        <!-- Optional: Darker shade for the status bar -->
+        <item name="colorPrimaryDark">#00A8AE</item>
+        <!-- Optional: Accent color for widgets -->
+        <item name="colorAccent">#FFC107</item>
+
+        <item name="fontFamily">@font/poppins_medium</item>
+
+    </style>
+
+    <style name="Theme.MyApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="textAppearanceBody1">@style/Base.Theme.RENTER_APP_G04</item>
+    </style>
+
+    <style name="Theme.RENTER_APP_G04" parent="Base.Theme.RENTER_APP_G04" />
+</resources>
